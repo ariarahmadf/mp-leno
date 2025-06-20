@@ -1,6 +1,6 @@
 # Leno - Project Documentation
 
-![Leno Banner]()  
+![Leno Banner](https://github.com/ariarahmadf/mp-leno/blob/main/images/leno-banner.png?raw=true)  
 
 ---
 
